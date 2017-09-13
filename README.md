@@ -1,1 +1,2 @@
-# computational-physics_N2015301020076
+# homework list
+- [x] [exercise_02:打出自己的名字]()
