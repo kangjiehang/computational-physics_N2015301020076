@@ -1,2 +1,2 @@
-`# -*- coding: utf-8 -*-
- printf("康杰航")`
+`# -*- coding: utf-8 -*-`
+ `print("康杰航")`
