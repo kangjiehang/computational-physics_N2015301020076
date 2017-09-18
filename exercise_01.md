@@ -1,2 +1,5 @@
-    # -*- coding: utf-8 -*- 
-    print("康杰航")
+    import turtle
+    wn=turtle.Screen
+    kjh=turtle.Turtle()
+    kjh.width(10)
+    kjh.write("康杰航")
