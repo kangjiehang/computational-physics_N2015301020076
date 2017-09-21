@@ -5,4 +5,4 @@
         turtle.forward(5*i)
         turtle.right(5*i)
         turtle.clear()
-        turtle.write('康杰航')
+        turtle.write("康杰航",font=("Times",30,"bold"))
