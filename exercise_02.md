@@ -1,4 +1,4 @@
-
+https://github.com/kangjiehang/computational-physics_N2015301020076/blob/master/exercise_02.gif
 # 方法一 turtle
 ## 用python自带的turtle画出自己的名字，然后移动，同时清屏
 * 源代码
@@ -12,7 +12,7 @@
 ```
 
 # 方法二 pygame
-* ![效果演示]()
+* ![效果演示](https://github.com/kangjiehang/computational-physics_N2015301020076/blob/master/exercise_02.gif)
 * 源代码
 ```
 import pygame
