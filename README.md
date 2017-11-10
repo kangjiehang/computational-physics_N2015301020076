@@ -7,4 +7,4 @@
 - [x] [exercise_05:书上P43面第20题](https://note.youdao.com/web/#/file/recent/markdown/WEBf15129cd532c1cab9cfc556bf1686bb2/)
 - [x] [exercise_06:书上P65面第14题](https://note.youdao.com/web/#/file/recent/markdown/WEB6fd243209f97482389c21a846fbcb709/)
 - [x] [exercise_07:书上P80面第20题和P82面第26题](https://note.youdao.com/web/#/file/recent/markdown/WEBce4406e211a1e641f5f6a0172e2ca6c5/)
-- [x] [exercise_08:书上P82面第31题](https://note.youdao.com/web/#/file/1A9EF5AF17F6475EA779DB5F6485B164/markdown/WEB24dee1a1cbbb324845a8fb13176403b4/)
+- [x] [exercise_08:书上P82面第31题](http://note.youdao.com/noteshare?id=1a3a04577207e5db87f18c39087c6dc0)
