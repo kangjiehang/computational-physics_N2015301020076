@@ -7,5 +7,5 @@
 - [x] [exercise_06:书上P65面第14题](http://note.youdao.com/noteshare?id=47df69b18295f80769c2e80da312377c)
 - [x] [exercise_07:书上P80面第20题和P82面第26题](http://note.youdao.com/noteshare?id=73f884ce8ed3448fd929a8b4230f6430)
 - [x] [exercise_08:书上P82面第31题](http://note.youdao.com/noteshare?id=1a3a04577207e5db87f18c39087c6dc0)
-- [x] [exercise_09:期中作业]()
+- [x] [exercise_09:期中作业](https://github.com/kangjiehang/computational-physics_N2015301020076/blob/master/%E6%9C%9F%E4%B8%AD.md)
 # 我以前的作业因为分享错链接了。。一直都没发现，但其实每次都写了，现在已经修改过来了
