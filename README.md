@@ -1,4 +1,4 @@
-# homework list
+http://note.youdao.com/noteshare?id=d79944606a556f742a7d232732419afa# homework list
 - [x] [exercise_01:打出自己的名字](https://github.com/kangjiehang/computational-physics_N2015301020076/blob/master/exercise_01.md )
 - [x] [exercise_02:名字动起来](https://github.com/kangjiehang/computational-physics_N2015301020076/blob/master/exercise_02.md)
 - [x] [exercise_03：书上P16面第3题](http://note.youdao.com/noteshare?id=92d1359f5f0b9faecfb505dc8bbef299)
