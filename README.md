@@ -1,4 +1,4 @@
-http://note.youdao.com/noteshare?id=d79944606a556f742a7d232732419afa# homework list
+# homework list
 - [x] [exercise_01:打出自己的名字](https://github.com/kangjiehang/computational-physics_N2015301020076/blob/master/exercise_01.md )
 - [x] [exercise_02:名字动起来](https://github.com/kangjiehang/computational-physics_N2015301020076/blob/master/exercise_02.md)
 - [x] [exercise_03：书上P16面第3题](http://note.youdao.com/noteshare?id=92d1359f5f0b9faecfb505dc8bbef299)
@@ -9,4 +9,4 @@ http://note.youdao.com/noteshare?id=d79944606a556f742a7d232732419afa# homework l
 - [x] [exercise_08:书上P82面第31题](http://note.youdao.com/noteshare?id=1a3a04577207e5db87f18c39087c6dc0)
 - [x] [exercise_09:期中作业](https://github.com/kangjiehang/computational-physics_N2015301020076/blob/master/%E6%9C%9F%E4%B8%AD.md)
 # 我以前的作业因为分享错链接了。。一直都没发现，但其实每次都写了，现在已经修改过来了
-- [x] [exercise_10:书上P118面第16题]()
+- [x] [exercise_10:书上P118面第16题](http://note.youdao.com/noteshare?id=d79944606a556f742a7d232732419afa)
