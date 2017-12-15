@@ -10,3 +10,4 @@
 - [x] [exercise_09:期中作业](https://github.com/kangjiehang/computational-physics_N2015301020076/blob/master/%E6%9C%9F%E4%B8%AD.md)
 - [x] [exercise_10:书上P118面第16题](http://note.youdao.com/noteshare?id=d79944606a556f742a7d232732419afa)
 - [x] [exercise_11:书上P143面第5.3题](http://note.youdao.com/noteshare?id=6a954db1bfd1333443686300fa95c988)
+- [x] [exercise_12:书上P164面6.6]()
