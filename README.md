@@ -11,3 +11,4 @@
 - [x] [exercise_10:书上P118面第16题](http://note.youdao.com/noteshare?id=d79944606a556f742a7d232732419afa)
 - [x] [exercise_11:书上P143面第5.3题](http://note.youdao.com/noteshare?id=6a954db1bfd1333443686300fa95c988)
 - [x] [exercise_12:书上P164面6.6](http://note.youdao.com/noteshare?id=c02715de34b89571377a17d4bc23f326)
+- [x] [期末](http://note.youdao.com/noteshare?id=7da270221a1b72d2aaa74de915e62351)
